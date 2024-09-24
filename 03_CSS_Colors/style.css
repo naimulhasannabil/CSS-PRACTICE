@@ -1,0 +1,22 @@
+body {
+    background: url(pexels-brett-sayles-20646812.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+h1 {
+    color: aqua;
+    /* Hex Color Code*/
+    color: #000000;
+    color: #0000ff;
+    color: #00ff00;      
+    color: #ff0000;
+    color: #ffffffb5;
+
+    /* RGB Color Code*/
+    color: rgb(0, 0, 0);
+    color: rgb(0, 0, 255);
+    color: rgb(0, 255, 0);
+    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255, 0.5);
+}
