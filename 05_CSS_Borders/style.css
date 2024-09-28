@@ -1,0 +1,15 @@
+h1 {
+    /* border-style: outset;
+    border-width: 10px;
+    border-color: aquamarine;
+
+    /* shortHand */
+    /* border: 5px solid aquamarine;
+    border-radius: 15px; */ 
+
+    border-left: 5px 
+    dotted greenyellow;
+    border-top: 5px double greenyellow;
+    border-right: 5px groove greenyellow;
+    border-bottom: 5px inset greenyellow;
+}
