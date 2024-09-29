@@ -8,16 +8,18 @@ h1 {
     /* background: aqua; */
     text-align: center;
 }
-p {
+/* p {
     margin-bottom: 20px;
-}
+} */
 .one {
     /* text-align-last: center; */
     text-align: center;
+    font-size: 15px;
+    line-height: 30px;
 }
 
 /* Direction */
-.two {
+/* .two {
     direction: rtl;
     unicode-bidi: bidi-override;
 }
@@ -31,4 +33,18 @@ p {
 }
 .text-bottom {
     vertical-align: text-bottom;
+} */
+
+a {
+    text-decoration: overline underline;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-indent: 10px;
+    text-shadow: 0px 5px 5px #ddd;
+}
+
+.prac {
+    white-space: break-spaces;
 }
