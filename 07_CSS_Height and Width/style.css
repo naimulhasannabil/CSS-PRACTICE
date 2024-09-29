@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+}
+body {
+    height: inherit;
+}
+
+div {
+    background: #574b90;
+    color: #fff;
+    margin: 20px auto;
+    padding: 2%;
+    width: 92%;
+    height: initial;
+}
