@@ -17,3 +17,18 @@ a:focus {
     color: blueviolet;
     font-size: 16px;
 }
+
+a.btn {
+    text-decoration: none;
+    background: red;
+    border: 2px solid red;
+    color: #fff;
+    padding: 10px 25px;
+    display: inline-block;
+    font-family: sans-serif;
+    border-radius: 35px;
+}
+a.btn:hover {
+    background: rgba(255, 0, 0, 0.2);
+    color: black;
+}
