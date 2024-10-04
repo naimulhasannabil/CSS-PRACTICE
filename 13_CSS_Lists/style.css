@@ -1,0 +1,10 @@
+ul {
+    list-style-type: square;
+    list-style-type: upper-roman;
+    list-style-type: lower-roman;
+    list-style-type: circle;
+    list-style-type: none;
+
+    /*When you need a img to lists*/
+    list-style-image: url(hand.png);
+}
