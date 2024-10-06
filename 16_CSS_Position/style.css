@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+div {
+    background: aqua;
+    width: 400px;
+    height: 400px;
+    position: static;
+    margin-top: 20px;
+    margin-left: 20px;
+}
