@@ -22,6 +22,8 @@ div {
     background: plum;
     width: 50px;
     height: 50px;
-    left: auto;
-    right: 0;
+    left: 50%;
+    margin-left: -25px;
+    top: 50%;
+    margin-top: -25px; 
 }
