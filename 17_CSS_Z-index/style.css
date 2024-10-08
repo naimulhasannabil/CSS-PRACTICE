@@ -31,13 +31,23 @@ body {
     margin-left: -25px;
     top: 50%;
     margin-top: -25px;
-    z-index: 1;
+    /* z-index: 1; */
   }
   .child2 {
     position: absolute;
     background: peru;
     width: 100px;
     height: 100px;
+    left: 50%;
+    margin-left: -50px;
+    top: 50%;
+    margin-top: -50px;
+  }
+  .child3 {
+    position: absolute;
+    background: blue;
+    width: 200px;
+    height: 200px;
     left: 50%;
     margin-left: -50px;
     top: 50%;
