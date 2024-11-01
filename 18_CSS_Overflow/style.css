@@ -1,4 +1,7 @@
-* {
-    margin: 0;
-    padding: 0;
+div {
+    background: #2d3436;
+    color: azure;
+    padding: 20px;
+    overflow: visible;
+    width: 100%;
 }
