@@ -6,4 +6,5 @@ div {
   width: 90%;
   height: 200px;
   /* overflow: hidden;  In this part the overflow are hidden. */
+  overflow: auto;
 }
